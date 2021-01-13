@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134786466682",
+    "project_id": "haksaapp-notification",
+    "storage_bucket": "haksaapp-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134786466682:android:c29536a65db4040a490cc3",
+        "android_client_info": {
+          "package_name": "com.example.haksaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134786466682-fuv24fbgn9in4j1apcls8ep00f2r72s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haksaapp",
+            "certificate_hash": "a7ffa29f186262dfbd24313404c47acf39c4fdd3"
+          }
+        },
+        {
+          "client_id": "134786466682-73ssaaihk8mu31kri2u78i3dj0l18ote.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDUhIkfVeB0kD4cn5VWm6t_cuBw_aKfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134786466682-73ssaaihk8mu31kri2u78i3dj0l18ote.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

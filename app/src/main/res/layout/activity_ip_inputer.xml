@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IpInputer">
+
+    <EditText
+        android:id="@+id/ip_text"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:inputType="text"
+        />
+    <Button
+        android:id="@+id/ip_btn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/ip_text"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:id="@+id/main_url"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ip_btn"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="15dp"
+        android:text="https://app.koreait.kr/" />
+</RelativeLayout>
